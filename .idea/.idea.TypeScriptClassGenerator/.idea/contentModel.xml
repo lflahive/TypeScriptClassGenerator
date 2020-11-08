@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Luke\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Luke\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TypeScriptClassGenerator.-569175320.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TypeScriptClassGenerator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GenerateTypeScript.cs" t="Include" />
+        <e p="license.txt" t="Include" />
+        <e p="nupkg" t="Include">
+          <e p="TypeScriptClassGenerator.1.0.0.nupkg" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="TypeScriptClassGenerator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TypeScriptClassGenerator.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TypeScriptClassGenerator.Cli" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="license.txt" t="Include" />
+        <e p="nupkg" t="Include">
+          <e p="TypeScriptClassGenerator.Cli.1.0.0.nupkg" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TypeScriptClassGenerator.Cli.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="StringExtensions.cs" t="Include" />
+        <e p="ts-classes" t="Include">
+          <e p="test-again.model.ts" t="Include" />
+          <e p="test.model.ts" t="Include" />
+        </e>
+        <e p="TypeScriptClassGenerator.Cli.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TypeScriptClassGenerator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

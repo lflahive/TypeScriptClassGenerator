@@ -1,0 +1,9 @@
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\bin\Debug\netstandard2.1\TypeScriptClassGenerator.deps.json
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\bin\Debug\netstandard2.1\TypeScriptClassGenerator.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\bin\Debug\netstandard2.1\TypeScriptClassGenerator.pdb
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.csprojAssemblyReference.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.AssemblyInfoInputs.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.AssemblyInfo.cs
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator\obj\Debug\netstandard2.1\TypeScriptClassGenerator.pdb

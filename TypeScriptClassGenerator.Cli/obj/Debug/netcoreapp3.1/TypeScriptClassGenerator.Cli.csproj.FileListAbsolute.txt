@@ -1,0 +1,16 @@
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.exe
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.deps.json
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.runtimeconfig.json
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.runtimeconfig.dev.json
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.pdb
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.pdb
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.csprojAssemblyReference.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.AssemblyInfoInputs.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.AssemblyInfo.cs
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.csproj.CoreCompileInputs.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.csproj.CopyComplete
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.pdb
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.genruntimeconfig.cache

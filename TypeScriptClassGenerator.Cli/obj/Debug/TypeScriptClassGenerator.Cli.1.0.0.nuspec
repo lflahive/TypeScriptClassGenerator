@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TypeScriptClassGenerator.Cli</id>
+    <version>1.0.0</version>
+    <authors>TypeScriptClassGenerator.Cli</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.Cli.dll" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.Cli.dll" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.Cli.deps.json" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.Cli.deps.json" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.Cli.runtimeconfig.json" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.Cli.runtimeconfig.json" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.Cli.pdb" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.Cli.pdb" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.dll" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.dll" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.pdb" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.pdb" />
+    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\license.txt" target="license.txt" />
+  </files>
+</package>
