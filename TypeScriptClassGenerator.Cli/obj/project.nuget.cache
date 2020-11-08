@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+5WdFy1RamvBwSUV5OSY6VmOLqh2hR8+18wN8aZJDTRIJ2YjMlPk5GtkU0ZMY2qZnlTiGKGt/wkLw4ZYDj2KKA==",
+  "dgSpecHash": "mEYZuzXzd762hEnIv8BIDLNbX86DrHXBOp1C/J9waI3zJf/RTC0UiQDDcZq1vC/5dw+b6Mf1xAqmSG9V5V0amw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\TypeScriptClassGenerator.Cli.csproj",
   "expectedPackageFiles": [

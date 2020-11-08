@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\TypeScriptClassGenerator.Cli.csproj": {
-      "version": "1.0.4",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\TypeScriptClassGenerator.Cli.csproj",
         "projectName": "TypeScriptClassGenerator.Cli",
@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -64,6 +64,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "": {
+          "#import": []
         }
       }
     }
