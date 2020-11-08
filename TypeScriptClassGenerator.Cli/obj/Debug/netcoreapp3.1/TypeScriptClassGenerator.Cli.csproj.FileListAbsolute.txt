@@ -4,8 +4,6 @@ C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cl
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.runtimeconfig.dev.json
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.dll
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.pdb
-C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.dll
-C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\TypeScriptClassGenerator.pdb
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.csprojAssemblyReference.cache
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.AssemblyInfoInputs.cache
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.AssemblyInfo.cs
@@ -14,3 +12,7 @@ C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cl
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.dll
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.pdb
 C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\obj\Debug\netcoreapp3.1\TypeScriptClassGenerator.Cli.genruntimeconfig.cache
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\Mono.Cecil.dll

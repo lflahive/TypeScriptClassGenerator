@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>TypeScriptClassGenerator.Cli</id>
-    <version>1.0.2</version>
+    <version>1.0.4</version>
     <authors>TypeScriptClassGenerator.Cli</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">license.txt</license>
@@ -22,8 +22,6 @@
     <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\Mono.Cecil.Pdb.dll" target="tools\netcoreapp3.1\any\Mono.Cecil.Pdb.dll" />
     <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\Mono.Cecil.Rocks.dll" target="tools\netcoreapp3.1\any\Mono.Cecil.Rocks.dll" />
     <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\Mono.Cecil.dll" target="tools\netcoreapp3.1\any\Mono.Cecil.dll" />
-    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.dll" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.dll" />
-    <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\bin\Debug\netcoreapp3.1\publish\TypeScriptClassGenerator.pdb" target="tools\netcoreapp3.1\any\TypeScriptClassGenerator.pdb" />
     <file src="C:\Users\Luke\RiderProjects\TypeScriptClassGenerator\TypeScriptClassGenerator.Cli\license.txt" target="license.txt" />
   </files>
 </package>

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uhK9LbAcPZ0Vq3iHdK3xieA6OkxbqK/tLO9hg3TJ3EYVm4SVw31IpxJI6XbO6gdzVOuUUAdjAtPiSyLQh5wK0Q==",
+  "dgSpecHash": "+5WdFy1RamvBwSUV5OSY6VmOLqh2hR8+18wN8aZJDTRIJ2YjMlPk5GtkU0ZMY2qZnlTiGKGt/wkLw4ZYDj2KKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\TypeScriptClassGenerator.Cli.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Luke\\.nuget\\packages\\mono.cecil\\0.11.3\\mono.cecil.0.11.3.nupkg.sha512"
+  ],
   "logs": []
 }

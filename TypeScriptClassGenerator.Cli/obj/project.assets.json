@@ -2,28 +2,55 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TypeScriptClassGenerator/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+      "Mono.Cecil/0.11.3": {
+        "type": "package",
         "compile": {
-          "bin/placeholder/TypeScriptClassGenerator.dll": {}
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TypeScriptClassGenerator.dll": {}
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard2.0/Mono.Cecil.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TypeScriptClassGenerator/1.0.0": {
-      "type": "project",
-      "path": "../TypeScriptClassGenerator/TypeScriptClassGenerator.csproj",
-      "msbuildProject": "../TypeScriptClassGenerator/TypeScriptClassGenerator.csproj"
+    "Mono.Cecil/0.11.3": {
+      "sha512": "DNYE+io5XfEE8+E+5padThTPHJARJHbz1mhbhMPNrrWGKVKKqj/KEeLvbawAmbIcT73NuxLV7itHZaYCZcVWGg==",
+      "type": "package",
+      "path": "mono.cecil/0.11.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Mdb.pdb",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.pdb",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.Rocks.pdb",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "lib/netstandard2.0/Mono.Cecil.dll",
+        "lib/netstandard2.0/Mono.Cecil.pdb",
+        "mono.cecil.0.11.3.nupkg.sha512",
+        "mono.cecil.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "TypeScriptClassGenerator >= 1.0.0"
+      "Mono.Cecil >= 0.11.3"
     ]
   },
   "packageFolders": {
@@ -32,7 +59,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.4",
     "restore": {
       "projectUniqueName": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator.Cli\\TypeScriptClassGenerator.Cli.csproj",
       "projectName": "TypeScriptClassGenerator.Cli",
@@ -58,11 +85,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator\\TypeScriptClassGenerator.csproj": {
-              "projectPath": "C:\\Users\\Luke\\RiderProjects\\TypeScriptClassGenerator\\TypeScriptClassGenerator\\TypeScriptClassGenerator.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -73,6 +96,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.11.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

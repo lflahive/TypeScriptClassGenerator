@@ -8,15 +8,30 @@
     ".NETCoreApp,Version=v3.1": {
       "TypeScriptClassGenerator.Cli/1.0.0": {
         "dependencies": {
-          "TypeScriptClassGenerator": "1.0.0"
+          "Mono.Cecil": "0.11.3"
         },
         "runtime": {
           "TypeScriptClassGenerator.Cli.dll": {}
         }
       },
-      "TypeScriptClassGenerator/1.0.0": {
+      "Mono.Cecil/0.11.3": {
         "runtime": {
-          "TypeScriptClassGenerator.dll": {}
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "assemblyVersion": "0.11.3.0",
+            "fileVersion": "0.11.3.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "assemblyVersion": "0.11.3.0",
+            "fileVersion": "0.11.3.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "assemblyVersion": "0.11.3.0",
+            "fileVersion": "0.11.3.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "assemblyVersion": "0.11.3.0",
+            "fileVersion": "0.11.3.0"
+          }
         }
       }
     }
@@ -27,10 +42,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "TypeScriptClassGenerator/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+    "Mono.Cecil/0.11.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DNYE+io5XfEE8+E+5padThTPHJARJHbz1mhbhMPNrrWGKVKKqj/KEeLvbawAmbIcT73NuxLV7itHZaYCZcVWGg==",
+      "path": "mono.cecil/0.11.3",
+      "hashPath": "mono.cecil.0.11.3.nupkg.sha512"
     }
   }
 }

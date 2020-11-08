@@ -13,11 +13,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <None Include="license.txt" Pack="true" PackagePath="license.txt"/>
+        <None Include="license.txt" Pack="true" PackagePath="license.txt" />
     </ItemGroup>
     
     <ItemGroup>
-      <ProjectReference Include="..\TypeScriptClassGenerator\TypeScriptClassGenerator.csproj" />
+      <PackageReference Include="Mono.Cecil" Version="0.11.3" />
     </ItemGroup>
 
 </Project>
